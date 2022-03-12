@@ -2,14 +2,14 @@
 
 My name is Alex Carrasquillo Sánchez. I am a Software Developer who focuses primarily web technologies. 
 
-[![D3.js](https://img.shields.io/badge/D3-JS-F9A03C?style=flat-square&logo=d3dotjs)](https://github.com/d3/d3/wiki)
+[![React JS](https://img.shields.io/badge/React-JS-61DAFB?style=flat-square&logo=react)](https://reactjs.org/docs/getting-started.html)
+[![Node JS](https://img.shields.io/badge/Node-JS-83CD29?style=flat-square&logo=nodedotjs)](https://nodejs.org/api/)
 [![Express JS](https://img.shields.io/badge/Express-JS-white?style=flat-square&logo=express)](http://expressjs.com/en/5x/api.html)
 [![Gatsby JS](https://img.shields.io/badge/Gatsby-JS-6522B0?style=flat-square&logo=gatsby)](https://www.gatsbyjs.com/docs/)
 [![jQuery](https://img.shields.io/badge/jQuery-JS-0868AC?style=flat-square&logo=jquery)](https://api.jquery.com)
 [![Material UI](https://img.shields.io/badge/Material%20UI-JS-007FFF?style=flat-square&logo=mui)](https://mui.com/getting-started/installation/)
-[![Node JS](https://img.shields.io/badge/Node-JS-83CD29?style=flat-square&logo=nodedotjs)](https://nodejs.org/api/)
-[![React JS](https://img.shields.io/badge/React-JS-61DAFB?style=flat-square&logo=react)](https://reactjs.org/docs/getting-started.html)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-JS-black?style=flat-square&logo=socketdotio)](https://socket.io/docs/v4/)
+[![D3.js](https://img.shields.io/badge/D3-JS-F9A03C?style=flat-square&logo=d3dotjs)](https://github.com/d3/d3/wiki)
 
 [![Django](https://img.shields.io/badge/Django-PY-0F422D?style=flat-square&logo=django)](https://docs.djangoproject.com/en/4.0/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-PY-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
